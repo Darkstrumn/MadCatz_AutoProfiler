@@ -1,4 +1,5 @@
-﻿Public Class frmProfilesSettings
+﻿'note: defunct source controll git://git.code.sf.net/p/cyborgautoprofiler/code
+Public Class frmProfilesSettings
     Private TickCount As Byte
     Private TT As New ToolTip()
     Private SelectedDPIMode As Byte
@@ -1008,7 +1009,7 @@ EndofSub:
                 Call SetRATCustomSettings(1, SelectedProfile, R, True)
                 Call SetRATCustomSettings(2, SelectedProfile, G, True)
                 Call SetRATCustomSettings(3, SelectedProfile, B, True)
-                
+
 
             Case 1 ' Right LED
                 pbCPRight.BackColor = Color.FromArgb(R, G, B)
