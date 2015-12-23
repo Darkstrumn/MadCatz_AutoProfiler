@@ -1,0 +1,306 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Version</Key>
+    <Value>3.2.3</Value>
+  </Settings>
+  <Settings>
+    <Key>ProfilesDirectory</Key>
+    <Value>C:\Users\Public\Documents\SmartTechnology Profiles</Value>
+  </Settings>
+  <Settings>
+    <Key>CheckforUpdates</Key>
+    <Value>1</Value>
+  </Settings>
+  <Settings>
+    <Key>Profiles</Key>
+    <Value>12</Value>
+  </Settings>
+  <Settings>
+    <Key>DefaultProfile</Key>
+    <Value>1</Value>
+  </Settings>
+  <Settings>
+    <Key>CheckTime</Key>
+    <Value>1000</Value>
+  </Settings>
+  <Settings>
+    <Key>AutoEnable</Key>
+    <Value>1</Value>
+  </Settings>
+  <Settings>
+    <Key>HotKeyEnabled</Key>
+    <Value>1</Value>
+  </Settings>
+  <Settings>
+    <Key>SystemTrayInfo</Key>
+    <Value>1</Value>
+  </Settings>
+  <Settings>
+    <Key>DetectionType</Key>
+    <Value>1</Value>
+  </Settings>
+  <Settings>
+    <Key>RATRDC</Key>
+    <Value>1</Value>
+  </Settings>
+  <Settings>
+    <Key>MMO7LEDFlowSettings</Key>
+    <Value>2/10/0/0/209/4/0/255/162/9/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/1/0</Value>
+  </Settings>
+  <Settings>
+    <Key>MMO7LEDFlowColorDelay</Key>
+    <Value>0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 1 Name</Key>
+    <Value>C:\Users\Public\Documents\SmartTechnology Profiles\Strike7\DarkDesktop.pr0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 1 Process</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>Profile 1 Settings</Key>
+    <Value>0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 1 RATSettings</Key>
+    <Value>1/95/252/255/95/252/255/0/0/0/0/0/0/0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 1 Script</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>Profile 2 Name</Key>
+    <Value>C:\Users\Public\Documents\SmartTechnology Profiles\Combined\Combined-EvEOnline.pr0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 2 Process</Key>
+    <Value>exefile</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 2 Settings</Key>
+    <Value>0/0/0/17/109/0/1/1</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 2 RATSettings</Key>
+    <Value>0/0/0/0/0/0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 2 Script</Key>
+    <Value>None</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 3 Name</Key>
+    <Value>C:\Users\Public\Documents\SmartTechnology Profiles\ProGamerCommandUnit\MassEffect.pr0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 3 Process</Key>
+    <Value>MassEffect�MassEffect2</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 3 Settings</Key>
+    <Value>0/0/0/0/0/0/0/1</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 3 RATSettings</Key>
+    <Value>0/0/0/0/0/0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 3 Script</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>Profile 4 Name</Key>
+    <Value>C:\Users\Public\Documents\SmartTechnology Profiles\ProGamerCommandUnit\Stalker.pr0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 4 Process</Key>
+    <Value>XR_3DA</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 4 Settings</Key>
+    <Value>0/0/0/0/0/0/0/1</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 4 RATSettings</Key>
+    <Value>0/0/0/0/0/0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 4 Script</Key>
+    <Value>None</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 5 Name</Key>
+    <Value>C:\Users\Public\Documents\SmartTechnology Profiles\MMO7\NeverwinterOnline.pr0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 5 Process</Key>
+    <Value>GameClient</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 5 Settings</Key>
+    <Value>0/0/0/0/0/0/1/1</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 5 RATSettings</Key>
+    <Value>0/0/0/0/0/0/0/0/0/0/0/1/0/0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 5 Script</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>Profile 6 Name</Key>
+    <Value>C:\Users\Public\Documents\SmartTechnology Profiles\mmo7\StarTrekOnline.pr0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 6 Process</Key>
+    <Value>GameClient</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 6 Settings</Key>
+    <Value>0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 6 RATSettings</Key>
+    <Value>0/0/0/0/0/0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 6 Script</Key>
+    <Value>None</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 7 Name</Key>
+    <Value>C:\Users\Public\Documents\SmartTechnology Profiles\mmo7\D&amp;DOnline.pr0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 7 Process</Key>
+    <Value>dndclient</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 7 Settings</Key>
+    <Value>0/0/0/0/0/0/1/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 7 RATSettings</Key>
+    <Value>0/0/0/0/0/0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 7 Script</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>Profile 8 Name</Key>
+    <Value>C:\Users\Public\Documents\SmartTechnology Profiles\mmo7\SupremeCommander2.pr0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 8 Process</Key>
+    <Value>SupremeCommander2</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 8 Settings</Key>
+    <Value>0/0/0/0/0/0/1/1</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 8 RATSettings</Key>
+    <Value>0/0/0/0/0/0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 8 Script</Key>
+    <Value>None</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 9 Name</Key>
+    <Value>C:\Users\Public\Documents\SmartTechnology Profiles\MMO7\DCUO.pr0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 9 Process</Key>
+    <Value>DCGAME.EXE</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 9 Settings</Key>
+    <Value>0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 9 RATSettings</Key>
+    <Value>0/0/0/0/0/0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 9 Script</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>ClearProfile</Key>
+    <Value>0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 10 Name</Key>
+    <Value>C:\Users\Public\Documents\SmartTechnology Profiles\MMO7\MarvelHerosOnline.pr0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 10 Process</Key>
+    <Value>MarvelHeroes2015</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 10 Settings</Key>
+    <Value>0/0/0/0/0/0/1/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 10 RATSettings</Key>
+    <Value>0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 10 Script</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>IgnoredDevices</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>LEDFlowEnabled</Key>
+    <Value>0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 11 Name</Key>
+    <Value>C:\Users\Public\Documents\SmartTechnology Profiles\MMO7\EliteDangerous_v1.pr0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 11 Process</Key>
+    <Value>EliteDangerous32</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 11 Settings</Key>
+    <Value>0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 11 RATSettings</Key>
+    <Value>1/245/13/3/245/13/3/2/0/0/0/0/0/0/0/0/0/0/0/0/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 11 Script</Key>
+    <Value />
+  </Settings>
+  <Settings>
+    <Key>Profile 12 Name</Key>
+    <Value>C:\Users\Public\Documents\SmartTechnology Profiles\MMO7\0MMO7_Default.pr0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 12 Process</Key>
+    <Value>EliteDangerous64</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 12 Settings</Key>
+    <Value>0/0/0/0/0/0/1/0</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 12 RATSettings</Key>
+    <Value>1/206/5/0/206/5/0/0/0/0/0/0/1/0/0/0/0/0/0/800/800</Value>
+  </Settings>
+  <Settings>
+    <Key>Profile 12 Script</Key>
+  </Settings>
+</NewDataSet>
